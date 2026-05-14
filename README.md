@@ -4,7 +4,7 @@ A machine learning project to predict the existence of breast cancer (malignant 
 
 ---
 
-## 📋 Overview
+##  Overview
 
 This project implements multiple machine learning classifiers to predict whether a breast cancer tumor is **malignant** (cancerous) or **benign** (non-cancerous) based on 30 features computed from digitized images of fine needle aspirate (FNA) of breast mass.
 
@@ -16,7 +16,7 @@ This project implements multiple machine learning classifiers to predict whether
 
 ---
 
-## 🤖 Models Implemented
+##  Models Implemented
 
 The project trains and compares four machine learning algorithms:
 
@@ -33,7 +33,6 @@ The project trains and compares four machine learning algorithms:
 
 ---
 
-## 🚀 Quick Start
 
 ### 1. Clone the Repository
 ```bash
@@ -74,7 +73,7 @@ Enter 30 feature values (space-separated) to get a prediction.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 breast-cancer-prediction/
@@ -98,7 +97,7 @@ breast-cancer-prediction/
 
 ---
 
-## 📊 Usage Examples
+##  Usage Examples
 
 ### Training Models
 ```bash
@@ -159,7 +158,7 @@ Detailed Probabilities:
 
 ---
 
-## 🔧 Features & Characteristics
+##  Features & Characteristics
 
 The model uses 30 features from the Wisconsin Breast Cancer Dataset:
 
@@ -177,7 +176,7 @@ The model uses 30 features from the Wisconsin Breast Cancer Dataset:
 
 ---
 
-## 📈 Model Comparison Results
+##  Model Comparison Results
 
 | Model | Accuracy | Precision | Recall | F1-Score |
 |-------|----------|-----------|--------|----------|
@@ -188,9 +187,9 @@ The model uses 30 features from the Wisconsin Breast Cancer Dataset:
 
 ---
 
-## 🛡️ Medical Disclaimer
+##  Medical Disclaimer
 
-⚠️ **IMPORTANT**: This model is developed for **educational and research purposes only**. 
+ **IMPORTANT**: This model is developed for **educational and research purposes only**. 
 
 **It should NOT be used as a substitute for professional medical diagnosis.**
 
@@ -201,7 +200,7 @@ The model uses 30 features from the Wisconsin Breast Cancer Dataset:
 
 ---
 
-## 🔬 How to Use the Model Effectively
+##  How to Use the Model Effectively
 
 1. **Prepare Your Data**: Ensure your 30 features are in the correct order
 2. **Understand the Features**: Know what each feature represents
@@ -211,7 +210,7 @@ The model uses 30 features from the Wisconsin Breast Cancer Dataset:
 
 ---
 
-## 📚 Technologies Used
+##  Technologies Used
 
 - **Python 3.7+**
 - **scikit-learn** - Machine learning library
@@ -222,7 +221,7 @@ The model uses 30 features from the Wisconsin Breast Cancer Dataset:
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please feel free to:
 - Report bugs
@@ -232,13 +231,13 @@ Contributions are welcome! Please feel free to:
 
 ---
 
-## 📝 License
+##  License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 📖 References
+##  References
 
 - [Wisconsin Breast Cancer Dataset](https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(diagnostic))
 - [Scikit-learn Documentation](https://scikit-learn.org/)
@@ -246,13 +245,13 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-## 👤 Author
+##  Author
 
 **KNPratyusha**
 
 ---
 
-## ⭐ Acknowledgments
+##  Acknowledgments
 
 - Wisconsin Breast Cancer Dataset creators
 - scikit-learn community
